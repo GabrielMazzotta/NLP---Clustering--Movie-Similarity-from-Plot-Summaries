@@ -5,7 +5,7 @@
 
 ## Project Description
 
-Natural Language Processing (NLP) is an exciting field of study for data scientists where they develop algorithms that can make sense out of conversational language used by humans. In this Project, you will use NLP to find the degree of similarity between movies based on their plots available on IMDb and Wikipedia.
+Natural Language Processing (NLP) is an exciting field of study for data scientists where they develop algorithms that can make sense out of conversational language used by humans. In this Project, I'll use NLP to find the degree of similarity between movies based on their plots available on IMDb and Wikipedia.
 
 ## Dataset
 
@@ -17,7 +17,7 @@ To Find the top 3 similar movies within the same cluster.
 
 ## Tools and Libraries
 
-- Tokenization and Lemmatization (Spacy)
+- Tokenization and Lemmatization (spaCy)
 - TF-IDF (scikit-learn)
 - KMeans
 - Cosine Similarity / Similarity Score
