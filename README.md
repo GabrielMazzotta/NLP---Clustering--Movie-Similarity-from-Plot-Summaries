@@ -1,5 +1,5 @@
 <p><img style="margin:5px 20px 5px 1px; height: 250px; display: inline-block;" alt="2001: A Space Odyssey" src="./Images/movie1.jpg">
-<img style="margin:5px 20px 5px 1px; height: 250px; display: inline-block;" alt="Close Encounters of the Third Kind" src="https://assets.datacamp.com/production/project_648/img/movie2.jpg"></p>
+<img style="margin:5px 20px 5px 1px; height: 250px; display: inline-block;" alt="Close Encounters of the Third Kind" src="./Images/movie2.jpg"></p>
 
 # NLP & Clustering -Movie Similarity from Plot Summaries
 
